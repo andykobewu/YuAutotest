@@ -1,0 +1,5 @@
+web:
+  url: 'http://localhost:8102'
+
+ChromeDriver:
+  path: 'drivers/chromedriver'

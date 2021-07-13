@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 87\nCurrent browser version is 91.0.4472.124 with binary path C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+      "children" : [ {
+        "name" : "test_normal_login",
+        "uid" : "148efcb31e1f6853",
+        "parentUid" : "ea0fe54931219e3658bea827f3bf3bf7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626164370371,
+          "stop" : 1626164370371,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_menu",
+        "uid" : "284c44f44493462c",
+        "parentUid" : "ea0fe54931219e3658bea827f3bf3bf7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626164373737,
+          "stop" : 1626164373737,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ea0fe54931219e3658bea827f3bf3bf7"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

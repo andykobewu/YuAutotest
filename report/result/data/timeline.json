@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "andykobewu",
+    "children" : [ {
+      "name" : "4624-MainThread",
+      "children" : [ {
+        "name" : "test_normal_login",
+        "uid" : "148efcb31e1f6853",
+        "parentUid" : "cd35fc2f95c23e627036a23ce0e4130c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626164370371,
+          "stop" : 1626164370371,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_menu",
+        "uid" : "284c44f44493462c",
+        "parentUid" : "cd35fc2f95c23e627036a23ce0e4130c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626164373737,
+          "stop" : 1626164373737,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd35fc2f95c23e627036a23ce0e4130c"
+    } ],
+    "uid" : "f6c3d7f3592b90ed8df527f9fce7dea8"
+  } ]
+}

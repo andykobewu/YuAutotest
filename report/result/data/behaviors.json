@@ -1,0 +1,47 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试登录",
+    "children" : [ {
+      "name" : "正确用户名和密码",
+      "children" : [ {
+        "name" : "test_normal_login",
+        "uid" : "148efcb31e1f6853",
+        "parentUid" : "72cf5134222d7d8be579cd1c95158b25",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626164370371,
+          "stop" : 1626164370371,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72cf5134222d7d8be579cd1c95158b25"
+    } ],
+    "uid" : "cb9e090212f26a19f617b33539bf280d"
+  }, {
+    "name" : "测试菜单",
+    "children" : [ {
+      "name" : "菜单正常打开",
+      "children" : [ {
+        "name" : "test_menu",
+        "uid" : "284c44f44493462c",
+        "parentUid" : "37a5bf697dc591bf778edba961eeedd0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626164373737,
+          "stop" : 1626164373737,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37a5bf697dc591bf778edba961eeedd0"
+    } ],
+    "uid" : "634e9ce875dbfaf3980ad48fa1ba2c64"
+  } ]
+}

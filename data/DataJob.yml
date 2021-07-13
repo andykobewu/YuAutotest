@@ -1,0 +1,5 @@
+SignMap:
+    - TIME: ${now_time()}
+    - PHONE: ${phone($MODULE)}
+    - TERMINALNAME: $TERMINAL_NAME
+    - DESC: 当前时间为：${now_time()} ,联系电话为：${phone($MODULE)}

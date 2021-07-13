@@ -1,0 +1,3 @@
+- [首页](/)
+- [文档](https://sweeter.io/#/sweetest/)
+- [帮助](https://sweeter.io/#/sweetest/report)
